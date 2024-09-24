@@ -1,2 +1,7 @@
 requests
 beautifulsoup4
+papermill
+transformers[torch]
+datasets
+torch
+ipywidgets
